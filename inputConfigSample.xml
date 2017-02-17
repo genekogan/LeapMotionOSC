@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<OSCInputGroup>
+  <oscMessage>/wek/inputs</oscMessage>
+  <numInputs>62</numInputs>
+  <groupName>Inputs</groupName>
+  <inputNames>
+    <string>Left hand x-pos</string>
+    <string>Left hand y-pos</string>
+    <string>Left hand z-pos</string>
+    <string>Left hand x-velocity</string>
+    <string>Left hand y-velocity</string>
+    <string>Left hand z-velocity</string>
+    <string>Left thumb x-pos</string>
+    <string>Left thumb y-pos</string>
+    <string>Left thumb z-pos</string>
+    <string>Left index x-pos</string>
+    <string>Left index y-pos</string>
+    <string>Left index z-pos</string>
+    <string>Left middle x-pos</string>
+    <string>Left middle y-pos</string>
+    <string>Left middle z-pos</string>
+    <string>Left ring x-pos</string>
+    <string>Left ring y-pos</string>
+    <string>Left ring z-pos</string>
+    <string>Left pinky x-pos</string>
+    <string>Left pinky y-pos</string>
+    <string>Left pinky z-pos</string>
+    <string>Left hand size</string>
+    <string>Left hand x-normal</string>
+    <string>Left hand y-normal</string>
+    <string>Left hand z-normal</string>
+    <string>Left hand x-direction</string>
+    <string>Left hand y-direction</string>
+    <string>Left hand z-direction</string>
+    <string>Left hand roll</string>
+    <string>Left hand pitch</string>
+    <string>Left hand yaw</string>
+    <string>Right hand x-pos</string>
+    <string>Right hand y-pos</string>
+    <string>Right hand z-pos</string>
+    <string>Right hand x-velocity</string>
+    <string>Right hand y-velocity</string>
+    <string>Right hand z-velocity</string>
+    <string>Right thumb x-pos</string>
+    <string>Right thumb y-pos</string>
+    <string>Right thumb z-pos</string>
+    <string>Right index x-pos</string>
+    <string>Right index y-pos</string>
+    <string>Right index z-pos</string>
+    <string>Right middle x-pos</string>
+    <string>Right middle y-pos</string>
+    <string>Right middle z-pos</string>
+    <string>Right ring x-pos</string>
+    <string>Right ring y-pos</string>
+    <string>Right ring z-pos</string>
+    <string>Right pinky x-pos</string>
+    <string>Right pinky y-pos</string>
+    <string>Right pinky z-pos</string>
+    <string>Right hand size</string>
+    <string>Right hand x-normal</string>
+    <string>Right hand y-normal</string>
+    <string>Right hand z-normal</string>
+    <string>Right hand x-direction</string>
+    <string>Right hand y-direction</string>
+    <string>Right hand z-direction</string>
+    <string>Right hand roll</string>
+    <string>Right hand pitch</string>
+    <string>Right hand yaw</string>
+  </inputNames>
+</OSCInputGroup>
